@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with ****Software Development Internships, Web Development Internships****
 
-- 💬 Ask me about ****C++, HTML, CSS, OOPS, C Programing Language****
+- 💬 Ask me about ****C++, HTML, CSS, OOPS, C Programing Language, Javascript, SQL, Python****
 
 - 📫 How to reach me ****Just Contact Me On My Social Media Platforms****
 
@@ -22,6 +22,7 @@
 <a href="https://www.linkedin.com/in/saurav-552478193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav-552478193" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sauravmathuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sauravmathuriya" height="30" width="40" /></a>
 <a href="https://leetcode.com/duket_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurav" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/saurav_2942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-chef.svg" alt="saurav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
