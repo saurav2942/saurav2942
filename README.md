@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saurav242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav-552478193" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Duket_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sauravmathuriya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saurav2942/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav-552478193" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/daaku_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sauravmathuriya" height="30" width="40" /></a>
 <a href="https://leetcode.com/duket_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/duket_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saurav_2942" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/saurav_2942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saurav_2942" height="30" width="40" /></a>
