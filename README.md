@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Software Development Jobs, Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [sauravmathuriya.netlify.app](sauravmathuriya.netlify.app)
+- 👨‍💻 All of my projects are available at [sauravmathuriya.com](https://sauravmathuriya.netlify.app)
 
 - 📝 I regularly write articles on [DSA And Web Dev](DSA And Web Dev)
 
