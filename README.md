@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA and Web Development**
 
-- 👯 I’m looking to collaborate on **Fontend/FullStack Projects**
+- 👯 I’m looking to collaborate on **Frontend/FullStack Projects**
 
 - 🤝 I’m looking for help with **Software Development Jobs, Web Development Projects**
 
